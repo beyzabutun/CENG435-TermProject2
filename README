@@ -1,8 +1,6 @@
 # CENG435-TermProject2
 Data Communication and Networking
 
-Soner Durmaz 2171551
-Beyza Bütün 2171411
 
 1) Make ssh connection for source, broker and destination.
 2) Create a input.txt file with include 5 million keyboard characters (5 mb text file) on source ssh.
